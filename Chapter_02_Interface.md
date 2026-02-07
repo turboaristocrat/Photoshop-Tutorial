@@ -1,3 +1,9 @@
+---
+layout: default
+title: "2. The Interface"
+nav_order: 3
+---
+
 # Chapter 2: The Grand Tour – Understanding the Interface
 
 Now that you have Photoshop up and running, it's time to get comfortable with your new workspace. The Photoshop interface can look intimidating with all its buttons and panels, but don't worry—everything is logically organized.

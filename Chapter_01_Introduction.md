@@ -1,3 +1,9 @@
+---
+layout: default
+title: "1. Welcome to Photoshop"
+nav_order: 2
+---
+
 # Chapter 1: Welcome to Adobe Photoshop
 
 Welcome to the world of digital imaging! Whether you are an aspiring photographer, a graphic designer, or just someone who wants to enhance their vacation photos, Adobe Photoshop is the industry-standard tool that will help you achieve your creative vision.

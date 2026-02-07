@@ -1,13 +1,24 @@
 # Site settings
 title: "Photoshop for Newcomers"
 description: "A comprehensive beginner's guide to Adobe Photoshop"
-baseurl: "/Photoshop-Tutorial" # Change this to your repo name
-url: "" # Will be set by GitHub Pages
+baseurl: "/Photoshop-Tutorial"
+url: "https://turboaristocrat.github.io"
 
-# Theme
-remote_theme: pages-themes/minimal@v0.2.0
+# Theme - Just the Docs (has sidebar navigation)
+remote_theme: just-the-docs/just-the-docs@v0.10.1
 plugins:
   - jekyll-remote-theme
+
+# Color scheme
+color_scheme: dark
+
+# Aux links (top right)
+aux_links:
+  "View on GitHub":
+    - "https://github.com/turboaristocrat/Photoshop-Tutorial"
+
+# Footer
+footer_content: "Photoshop for Newcomers &copy; 2026"
 
 # Build settings
 markdown: kramdown

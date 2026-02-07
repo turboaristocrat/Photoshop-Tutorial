@@ -1,3 +1,9 @@
+---
+layout: default
+title: "5. Adjustments & Filters"
+nav_order: 6
+---
+
 # Chapter 5: Adjustments & Filters – Enhancing Your Images
 
 Now we get to the fun part: making your photos look amazing. Whether it's correcting a dark photo, changing a color, or adding a stylish effect, Adjustments and Filters are your go-to tools.

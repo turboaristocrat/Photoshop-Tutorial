@@ -1,3 +1,9 @@
+---
+layout: default
+title: "4. Layers & Masks"
+nav_order: 5
+---
+
 # Chapter 4: Layers & Masks – The Heart of Photoshop
 
 If you only learn one thing about Photoshop, learn Layers. Layers are what separate Photoshop from simpler paint programs. They allow you to work non-destructively, meaning you can change one part of an image without ruining the rest.

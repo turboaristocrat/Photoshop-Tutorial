@@ -1,3 +1,9 @@
+---
+layout: default
+title: "3. Basic Tools"
+nav_order: 4
+---
+
 # Chapter 3: Basic Tools & Techniques
 
 Now that you know your way around the interface, let's start *doing* something. In this chapter, we will cover the fundamental tools you'll use in almost every project.

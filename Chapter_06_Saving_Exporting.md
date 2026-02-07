@@ -1,3 +1,9 @@
+---
+layout: default
+title: "6. Saving & Exporting"
+nav_order: 7
+---
+
 # Chapter 6: Saving & Exporting – Sharing Your Work
 
 You've created something beautiful. Now, you need to save it and share it. This final step is crucial because choosing the wrong format can ruin all your hard work.
