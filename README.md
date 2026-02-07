@@ -4,9 +4,9 @@ A comprehensive beginner's guide to Adobe Photoshop.
 
 ## 📖 Read the Book
 
-**[View the online book here →](https://YOUR_USERNAME.github.io/Photoshop-Tutorial/)**
+**[View the online book here →](https://turboaristocrat.github.io/Photoshop-Tutorial/)**
 
-*(Replace `YOUR_USERNAME` with your GitHub username after deploying)*
+
 
 ## Chapters
 
